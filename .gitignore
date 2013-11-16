@@ -5,6 +5,7 @@
 build/
 test-reports/
 
+*.xccheckout
 *.pbxuser
 *.perspective
 *.perspectivev3
