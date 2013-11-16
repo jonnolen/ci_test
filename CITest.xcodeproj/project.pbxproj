@@ -26,7 +26,7 @@
 		FC43976A183808FA001A5701 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC43973B183808F9001A5701 /* Foundation.framework */; };
 		FC43976B183808FA001A5701 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC43973F183808F9001A5701 /* UIKit.framework */; };
 		FC439773183808FA001A5701 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FC439771183808FA001A5701 /* InfoPlist.strings */; };
-		FC439775183808FA001A5701 /* CITestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FC439774183808FA001A5701 /* CITestTests.m */; };
+		FC439775183808FA001A5701 /* DTViewControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FC439774183808FA001A5701 /* DTViewControllerTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,7 +64,7 @@
 		FC439768183808FA001A5701 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		FC439770183808FA001A5701 /* CITestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CITestTests-Info.plist"; sourceTree = "<group>"; };
 		FC439772183808FA001A5701 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		FC439774183808FA001A5701 /* CITestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CITestTests.m; sourceTree = "<group>"; };
+		FC439774183808FA001A5701 /* DTViewControllerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DTViewControllerTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,7 +163,7 @@
 		FC43976E183808FA001A5701 /* CITestTests */ = {
 			isa = PBXGroup;
 			children = (
-				FC439774183808FA001A5701 /* CITestTests.m */,
+				FC439774183808FA001A5701 /* DTViewControllerTests.m */,
 				FC43976F183808FA001A5701 /* Supporting Files */,
 			);
 			path = CITestTests;
@@ -292,7 +292,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC439775183808FA001A5701 /* CITestTests.m in Sources */,
+				FC439775183808FA001A5701 /* DTViewControllerTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

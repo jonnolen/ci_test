@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface DTViewController : UIViewController
-
+-(void)sayHello;
 @end
