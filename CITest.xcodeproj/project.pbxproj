@@ -16,11 +16,6 @@
 		FC43974F183808F9001A5701 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC43974D183808F9001A5701 /* Main_iPhone.storyboard */; };
 		FC439752183808F9001A5701 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC439750183808F9001A5701 /* Main_iPad.storyboard */; };
 		FC439755183808F9001A5701 /* DTViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC439754183808F9001A5701 /* DTViewController.m */; };
-		FC439758183808F9001A5701 /* RunPlatformUnitTests in Resources */ = {isa = PBXBuildFile; fileRef = FC439757183808F9001A5701 /* RunPlatformUnitTests */; };
-		FC43975A183808F9001A5701 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = FC439759183808F9001A5701 /* Podfile */; };
-		FC43975C183808F9001A5701 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = FC43975B183808F9001A5701 /* .gitignore */; };
-		FC43975E183808F9001A5701 /* Gemfile in Resources */ = {isa = PBXBuildFile; fileRef = FC43975D183808F9001A5701 /* Gemfile */; };
-		FC439760183808FA001A5701 /* .rvmrc in Resources */ = {isa = PBXBuildFile; fileRef = FC43975F183808FA001A5701 /* .rvmrc */; };
 		FC439762183808FA001A5701 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC439761183808FA001A5701 /* Images.xcassets */; };
 		FC439769183808FA001A5701 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC439768183808FA001A5701 /* XCTest.framework */; };
 		FC43976A183808FA001A5701 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FC43973B183808F9001A5701 /* Foundation.framework */; };
@@ -262,13 +257,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FC439762183808FA001A5701 /* Images.xcassets in Resources */,
-				FC43975A183808F9001A5701 /* Podfile in Resources */,
 				FC439752183808F9001A5701 /* Main_iPad.storyboard in Resources */,
-				FC439758183808F9001A5701 /* RunPlatformUnitTests in Resources */,
 				FC43974F183808F9001A5701 /* Main_iPhone.storyboard in Resources */,
-				FC43975C183808F9001A5701 /* .gitignore in Resources */,
-				FC43975E183808F9001A5701 /* Gemfile in Resources */,
-				FC439760183808FA001A5701 /* .rvmrc in Resources */,
 				FC439746183808F9001A5701 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
